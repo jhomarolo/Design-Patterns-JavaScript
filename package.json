@@ -75,7 +75,7 @@
     "storybook-addon-styled-component-theme": "1.2.3",
     "surge": "^0.20.4",
     "wait-on": "^3.2.0",
-    "webpack": "^4.30.0",
+    "webpack": "^5.94.0",
     "webpack-bundle-analyzer": "^3.3.2",
     "webpack-cli": "^3.3.1",
     "webpack-dev-server": "^3.3.1"
